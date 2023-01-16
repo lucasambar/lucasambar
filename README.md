@@ -12,7 +12,7 @@
  <p> I'm a full-stack dev that also studies statistics and finance at UFMG.</p>
 <strong>Some facts about me:</strong></br>
 <ul>
-    <li>I started coding at university, and then I join a bootcamp to improve my coding skills;</li>
+    <li>I started coding at university, and then I joined a bootcamp to improve my coding skills;</li>
     <Li>I've been a dancer for almost 10 years, I represented Brazil in international dances festivals.</li>
     <li>I'm engaged with social work, and I'm part of a group that helps social business and volunteer groups to structure themself to help even more people.</li>
 </ul>
