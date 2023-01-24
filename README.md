@@ -31,3 +31,6 @@
     <img src="https://skills.thijs.gg/icons?i=git&theme=dark" width="26px"/>
     <img src="https://skills.thijs.gg/icons?i=github&theme=dark" width="26px"/>
 </ul>
+<strong>My Github statics:</strong></br>
+</br>
+<img src="https://github-readme-stats.vercel.app/api?username=lucasambar&hide=stars&theme=gotham"/>
