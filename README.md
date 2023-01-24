@@ -17,15 +17,17 @@
     <li>I'm engaged with social work, and I'm part of a group that helps social business and volunteer groups to structure themself to help even more people.</li>
 </ul>
 <strong>Programming languages and tools:</strong></br>
+</br>
 <ul>
-    <img src="icons/html5.svg" width="26px"/>
-    <img src="icons/css3.svg" width="26px"/>
-    <img src="icons/javascript.svg" width="26px"/>
-    <img src="icons/react.svg" width="26px"/>
-    <img src="icons/nodedotjs.svg" width="26px"/>
-    <img src="icons/mongodb.svg" width="26px"/>
-    <img src="icons/postgresql.svg" width="26px"/>
-    <img src="icons/python.svg" width="26px"/>
-    <img src="icons/git.svg" width="26px"/>
-    <img src="icons/github.svg" width="26px"/>
+    <img src="https://skills.thijs.gg/icons?i=html&theme=light" width="26px"/>
+    <img src="https://skills.thijs.gg/icons?i=css&theme=light" width="26px"/>
+    <img src="https://skills.thijs.gg/icons?i=js&theme=light" width="26px"/>
+    <img src="https://skills.thijs.gg/icons?i=ts&theme=light" width="26px"/>
+    <img src="https://skills.thijs.gg/icons?i=react&theme=dark" width="26px"/>
+    <img src="https://skills.thijs.gg/icons?i=nodejs&theme=dark" width="26px"/>
+    <img src="https://skills.thijs.gg/icons?i=mongodb&theme=dark" width="26px"/>
+    <img src="https://skills.thijs.gg/icons?i=postgres&theme=dark" width="26px"/>
+    <img src="https://skills.thijs.gg/icons?i=py&theme=dark" width="26px"/>
+    <img src="https://skills.thijs.gg/icons?i=git&theme=dark" width="26px"/>
+    <img src="https://skills.thijs.gg/icons?i=github&theme=dark" width="26px"/>
 </ul>
