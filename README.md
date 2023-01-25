@@ -33,5 +33,7 @@
 </ul>
 <strong>My Github statics:</strong></br>
 </br>
-<img src="https://github-readme-stats.vercel.app/api?username=lucasambar&hide=stars&theme=gotham"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasambar&layout=compact&theme=gotham"/>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=lucasambar&hide=stars&theme=gotham"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasambar&layout=compact&theme=gotham"/>
+</p>
