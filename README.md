@@ -35,5 +35,5 @@
 </br>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=lucasambar&hide=stars&theme=gotham"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasambar&theme=gotham"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasambar&layout=compact&theme=radicaltheme=gotham"/>
 </p>
