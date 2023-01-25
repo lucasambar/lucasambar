@@ -34,6 +34,6 @@
 <strong>My Github statics:</strong></br>
 </br>
 <p>
-    <img  height="180" src="https://github-readme-stats.vercel.app/api?username=lucasambar&hide=stars&theme=gotham"/>
-    <img  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasambar&layout=compact&theme=gotham"/>
+    <img  height="160" src="https://github-readme-stats.vercel.app/api?username=lucasambar&hide=stars&theme=gotham"/>
+    <img  height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasambar&layout=compact&theme=gotham"/>
 </p>
